@@ -68,39 +68,39 @@
     <p> This portion focused primarily on understanding the key statistics
     and evaluation of the data frame. These findings were as follows:
     <h5>Max Value</h5>
-<img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/attack_violin.png?raw=true" alt="Max Value">
+
     The max values showed a high of 64 in age, 53.13 in BMI, 5 in children, and lastly $63770.40 in charges.
     <h5>Min Value</h5>
-<img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/speed_violin.png?raw=true" alt="Min Value">
+
     The min values showed a low of 18 in age, 15.96 in BMI, 0 in children, and lastly $1121.87 in charges.
 </details>
   <h5>Mean Value</h5>
-<img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/speed_violin.png?raw=true" alt="Mean Value">
+
     The mean values showed a average of 39 in age, 30 in BMI, 1 in children, and lastly $13270.42 in charges.
 </details>
 <details>
     <summary>Part 3</summary>
     <h3>Data Visualization</h3>
     <h5>Histogram: BMI</h5>
-<img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/ps_barplot.png?raw=true" alt="Histogram: BMI">
+<img src="https://github.com/AlignedMind/Medical-Insurance-Analysis-EDA/blob/main/images/hist_bmi.png" alt="Histogram: BMI">
  -----
     <h5>Histogram: Charges</h5>
-<img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/ss_barplot.png?raw=true" alt="Histogram: Charges">
+<img src="https://github.com/AlignedMind/Medical-Insurance-Analysis-EDA/blob/main/images/hist_charge.png" alt="Histogram: Charges">
  -----
     <h5>Histogram: Age</h5>
-<img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/wall_barplot.png?raw=true" alt="Histogram: Age">
+<img src="https://github.com/AlignedMind/Medical-Insurance-Analysis-EDA/blob/main/images/hist_age.png" alt="Histogram: Age">
  -----
     <h5>Histogram: Children</h5>
-<img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/pt_barplot.png?raw=true" alt="Histogram: Children">
+<img src="https://github.com/AlignedMind/Medical-Insurance-Analysis-EDA/blob/main/images/hist_children.png" alt="Histogram: Children">
  -----
     <h5>HeatMap: Correlation</h5>
-<img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/st_barplot.png?raw=true" alt="HeatMap: Correlation">
+<img src="https://github.com/AlignedMind/Medical-Insurance-Analysis-EDA/blob/main/images/heatmap.png" alt="HeatMap: Correlation">
  -----
     <h5>Category Plot: Side By Side Bar Plot</h5>
-<img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/point_plot.png?raw=true" alt="Category Side By Side Bar Plot">
+<img src="https://github.com/AlignedMind/Medical-Insurance-Analysis-EDA/blob/main/images/barplot.png" alt="Category Side By Side Bar Plot">
  -----
     <h5>Scatter Plot: Regressors </h5>
-<img src="https://github.com/AlignedMind/Pokedex_EDA_Project/blob/master/Analysis_Images/point_plot.png?raw=true" alt="Category Side By Side Bar Plot">
+<img src="https://github.com/AlignedMind/Medical-Insurance-Analysis-EDA/blob/main/images/scatter.png" alt="Category Side By Side Bar Plot">
 <p>
 - Clear Regression pattern, bottom details that the older you become there is an increase in charges in addition to the higher bmi
 
