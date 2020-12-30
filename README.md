@@ -50,15 +50,14 @@
 <details>
     <summary>Open</summary>
     <h2>Primary Goals</h2>
-
-    <p>The goals I set out for this project was to collaborate with data analyst Corey Arrington on a portfolio piece that showcases a range of our abilities. Furthermore I set out to create value for those interested investing into medical insurance, helping them understand the variables and features that contribute to the pricing model. This is a high level overview and not specific to one company or a one solution that speaks for all companies."</p>
+<p>The goals I set out for this project was to collaborate with data analyst Corey Arrington on a portfolio piece that showcases a range of our abilities. Furthermore I set out to create value for those interested investing into medical insurance, helping them understand the variables and features that contribute to the pricing model. This is a high level overview and not specific to one company or a one solution that speaks for all companies."</p>
 
 
 ### Library Imports
 <details>
     <summary>Part 1</summary>
 
-    <h3>Importing required Libraries, Loading into Dataframe</h3>
+<h3>Importing required Libraries, Loading into Dataframe</h3>
     <p>The require libraries included the utilization of primarily pandas, numpy, matplotlib, and seaborn. The inclusion of sklearn was for preprocessing.</p>
 </details>
 
@@ -70,7 +69,7 @@
     <h5>Max Value</h5>
 
     The max values showed a high of 64 in age, 53.13 in BMI, 5 in children, and lastly $63770.40 in charges.
-    <h5>Min Value</h5>
+ <h5>Min Value</h5>
 
     The min values showed a low of 18 in age, 15.96 in BMI, 0 in children, and lastly $1121.87 in charges.
 </details>
@@ -102,6 +101,7 @@
     <h5>Scatter Plot: Regressors </h5>
 <img src="https://github.com/AlignedMind/Medical-Insurance-Analysis-EDA/blob/main/images/scatter.png" alt="Category Side By Side Bar Plot">
 <p>
+
 - Clear Regression pattern, bottom details that the older you become there is an increase in charges in addition to the higher bmi
 
 - Second regression pattern shows that individuals with low bmi's that are smokers pay nearly the same as high bmi non smokers.
