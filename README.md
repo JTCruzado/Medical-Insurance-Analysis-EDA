@@ -3,7 +3,7 @@
 # *Medical Insurance Exploratory Data Analysis*
 
 ### Co-Contributor
-<a href = "https://github.com/CoreyArr/Data-Science-Projects" >Corey Arrington Github</a>
+<a href = "https://github.com/CoreyArr/Medical-Insurance-Project" >Corey Arrington Github</a>
 
 ## Project Goals 
 
