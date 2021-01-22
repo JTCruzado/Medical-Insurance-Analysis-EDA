@@ -2,7 +2,7 @@
 
 # *Medical Insurance Exploratory Data Analysis*
 
-* Ensemble Machine Learning* added in notebooks 01/21/21
+*Ensemble Machine Learning* added in notebooks 01/21/21 , no productionized model currently, will add using flask or binder soon.
 
 
 ### Co-Contributor
