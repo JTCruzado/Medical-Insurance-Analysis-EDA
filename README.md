@@ -2,6 +2,9 @@
 
 # *Medical Insurance Exploratory Data Analysis*
 
+* Ensemble Machine Learning* added in notebooks 01/21/21
+
+
 ### Co-Contributor
 <a href = "https://github.com/CoreyArr/Medical-Insurance-Project" >Corey Arrington Github</a>
 
